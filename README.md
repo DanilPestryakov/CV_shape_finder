@@ -8,5 +8,5 @@ pip install -r requirements.txt
 
 ## App launch
 ```
-python main.py -s template_file_name -i image_name
+python shape_finder.py -s template_file_name -i image_name
 ```
